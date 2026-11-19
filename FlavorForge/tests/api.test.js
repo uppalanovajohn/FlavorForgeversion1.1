@@ -1,0 +1,12 @@
+const test=require("node:test");
+const assert=require("node:assert/strict");
+const {app}=require("../server/server");
+let server,base;
+test.before(async()=>{server=app.listen(0);await new Promise(resolve=>server.once("listening",resolve));base=`http://127.0.0.1:${server.address().port}`;});
+test.after(async()=>{if(server) await new Promise((resolve,reject)=>server.close(e=>e?reject(e):resolve()));});
+test("health endpoint reports ready status and recipe count",async()=>{const r=await fetch(`${base}/api/health`);assert.equal(r.status,200);const b=await r.json();assert.equal(b.status,"ok");assert.equal(b.recipes,40);});
+test("recipes endpoint returns the recipe dataset",async()=>{const r=await fetch(`${base}/api/recipes`);assert.equal(r.status,200);assert.equal((await r.json()).length,40);});
+test("search returns ranked recipes and valid scores",async()=>{const r=await fetch(`${base}/api/search?ingredients=egg,bread,onion,salt`);assert.equal(r.status,200);const a=await r.json();assert.ok(a.length>0);assert.ok(a.every(x=>Number.isInteger(x.match)&&x.match>=0&&x.match<=100));for(let i=1;i<a.length;i++)assert.ok(a[i-1].match>=a[i].match);});
+test("search rejects missing or blank ingredients",async()=>{assert.equal((await fetch(`${base}/api/search`)).status,400);assert.equal((await fetch(`${base}/api/search?ingredients=%20%20`)).status,400);});
+test("search rejects oversized, malformed, and excessive ingredient values",async()=>{assert.equal((await fetch(`${base}/api/search?ingredients=${"a".repeat(501)}`)).status,400);assert.equal((await fetch(`${base}/api/search?ingredients=egg,%3Cscript%3E`)).status,400);assert.equal((await fetch(`${base}/api/search?ingredients=${Array(51).fill("egg").join(",")}`)).status,400);});
+test("unknown API endpoints return JSON 404",async()=>{const r=await fetch(`${base}/api/not-a-route`);assert.equal(r.status,404);assert.match((await r.json()).error,/not found/i);});

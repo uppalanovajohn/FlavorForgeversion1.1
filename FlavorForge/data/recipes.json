@@ -1,0 +1,1321 @@
+[
+  {
+    "id": 1,
+    "name": "Egg Toast",
+    "emoji": "🍳",
+    "ingredients": [
+      "egg",
+      "bread",
+      "onion"
+    ],
+    "quantities": {
+      "egg": 1,
+      "bread": 100,
+      "onion": 1
+    },
+    "units": {
+      "egg": "piece",
+      "bread": "g",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "A practical home-style egg toast using everyday ingredients.",
+    "steps": [
+      "Beat egg with onion",
+      "Dip bread in the mixture",
+      "Pan-cook both sides until the egg is fully set"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 2,
+    "name": "Aloo Egg Bhurji",
+    "emoji": "🥘",
+    "ingredients": [
+      "egg",
+      "potato",
+      "onion",
+      "tomato"
+    ],
+    "quantities": {
+      "egg": 1,
+      "potato": 1,
+      "onion": 1,
+      "tomato": 1
+    },
+    "units": {
+      "egg": "piece",
+      "potato": "piece",
+      "onion": "piece",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "A practical home-style aloo egg bhurji using everyday ingredients.",
+    "steps": [
+      "Boil and dice potato",
+      "Sauté onion and tomato",
+      "Add potato and spices, then cook in beaten egg until set"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 3,
+    "name": "Spanish Omelette",
+    "emoji": "🍳",
+    "ingredients": [
+      "egg",
+      "potato",
+      "onion",
+      "butter"
+    ],
+    "quantities": {
+      "egg": 1,
+      "potato": 1,
+      "onion": 1,
+      "butter": 100
+    },
+    "units": {
+      "egg": "piece",
+      "potato": "piece",
+      "onion": "piece",
+      "butter": "g"
+    },
+    "servings": 2,
+    "time": 25,
+    "difficulty": "Medium",
+    "vegetarian": false,
+    "description": "A practical home-style spanish omelette using everyday ingredients.",
+    "steps": [
+      "Cook sliced potato and onion until tender",
+      "Add beaten egg and cook until fully set"
+    ],
+    "substitutions": {
+      "butter": "cooking oil"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Paneer Bhurji",
+    "emoji": "🧀",
+    "ingredients": [
+      "paneer",
+      "onion",
+      "tomato",
+      "chilli"
+    ],
+    "quantities": {
+      "paneer": 100,
+      "onion": 1,
+      "tomato": 1,
+      "chilli": 100
+    },
+    "units": {
+      "paneer": "g",
+      "onion": "piece",
+      "tomato": "piece",
+      "chilli": "g"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style paneer bhurji using everyday ingredients.",
+    "steps": [
+      "Crumble paneer",
+      "Sauté onion, tomato and chilli",
+      "Add paneer and cook briefly"
+    ],
+    "substitutions": {
+      "paneer": "firm tofu"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Tomato Rice",
+    "emoji": "🍚",
+    "ingredients": [
+      "rice",
+      "tomato",
+      "onion",
+      "chilli"
+    ],
+    "quantities": {
+      "rice": 100,
+      "tomato": 1,
+      "onion": 1,
+      "chilli": 100
+    },
+    "units": {
+      "rice": "g",
+      "tomato": "piece",
+      "onion": "piece",
+      "chilli": "g"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style tomato rice using everyday ingredients.",
+    "steps": [
+      "Cook rice",
+      "Sauté onion, tomato and chilli",
+      "Fold in rice and heat through"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 6,
+    "name": "Masala Bread",
+    "emoji": "🍞",
+    "ingredients": [
+      "bread",
+      "onion",
+      "tomato",
+      "chilli"
+    ],
+    "quantities": {
+      "bread": 100,
+      "onion": 1,
+      "tomato": 1,
+      "chilli": 100
+    },
+    "units": {
+      "bread": "g",
+      "onion": "piece",
+      "tomato": "piece",
+      "chilli": "g"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style masala bread using everyday ingredients.",
+    "steps": [
+      "Cut bread into cubes",
+      "Sauté vegetables and spices",
+      "Toss in bread until lightly crisp"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 7,
+    "name": "Potato Fry",
+    "emoji": "🥔",
+    "ingredients": [
+      "potato",
+      "onion",
+      "chilli"
+    ],
+    "quantities": {
+      "potato": 1,
+      "onion": 1,
+      "chilli": 100
+    },
+    "units": {
+      "potato": "piece",
+      "onion": "piece",
+      "chilli": "g"
+    },
+    "servings": 2,
+    "time": 18,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style potato fry using everyday ingredients.",
+    "steps": [
+      "Dice potato",
+      "Sauté onion and chilli",
+      "Add potato and cook covered until tender, then crisp"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 8,
+    "name": "Vegetable Pasta",
+    "emoji": "🍝",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "onion",
+      "capsicum"
+    ],
+    "quantities": {
+      "pasta": 100,
+      "tomato": 1,
+      "onion": 1,
+      "capsicum": 1
+    },
+    "units": {
+      "pasta": "g",
+      "tomato": "piece",
+      "onion": "piece",
+      "capsicum": "piece"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style vegetable pasta using everyday ingredients.",
+    "steps": [
+      "Boil pasta",
+      "Sauté onion and capsicum",
+      "Add tomato, then toss pasta through the sauce"
+    ],
+    "substitutions": {
+      "capsicum": "green beans"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Carrot Omelette",
+    "emoji": "🥕",
+    "ingredients": [
+      "egg",
+      "carrot",
+      "onion"
+    ],
+    "quantities": {
+      "egg": 1,
+      "carrot": 1,
+      "onion": 1
+    },
+    "units": {
+      "egg": "piece",
+      "carrot": "piece",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "A practical home-style carrot omelette using everyday ingredients.",
+    "steps": [
+      "Grate carrot",
+      "Beat egg with onion and carrot",
+      "Pan-cook both sides until fully set"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 10,
+    "name": "Paneer Sandwich",
+    "emoji": "🥪",
+    "ingredients": [
+      "paneer",
+      "bread",
+      "onion",
+      "tomato"
+    ],
+    "quantities": {
+      "paneer": 100,
+      "bread": 100,
+      "onion": 1,
+      "tomato": 1
+    },
+    "units": {
+      "paneer": "g",
+      "bread": "g",
+      "onion": "piece",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style paneer sandwich using everyday ingredients.",
+    "steps": [
+      "Mash paneer with chopped vegetables",
+      "Fill bread and toast until golden"
+    ],
+    "substitutions": {
+      "paneer": "firm tofu"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Spinach Rice",
+    "emoji": "🥬",
+    "ingredients": [
+      "rice",
+      "spinach",
+      "onion"
+    ],
+    "quantities": {
+      "rice": 100,
+      "spinach": 100,
+      "onion": 1
+    },
+    "units": {
+      "rice": "g",
+      "spinach": "g",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 18,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style spinach rice using everyday ingredients.",
+    "steps": [
+      "Cook rice",
+      "Sauté onion and spinach until wilted",
+      "Fold in rice and season"
+    ],
+    "substitutions": {
+      "spinach": "kale"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Milk Oats",
+    "emoji": "🥣",
+    "ingredients": [
+      "milk",
+      "oats",
+      "sugar"
+    ],
+    "quantities": {
+      "milk": 100,
+      "oats": 100,
+      "sugar": 100
+    },
+    "units": {
+      "milk": "g",
+      "oats": "g",
+      "sugar": "g"
+    },
+    "servings": 2,
+    "time": 8,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style milk oats using everyday ingredients.",
+    "steps": [
+      "Simmer oats in milk while stirring until creamy",
+      "Sweeten to taste"
+    ],
+    "substitutions": {
+      "milk": "unsweetened soy milk"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Aloo Paratha",
+    "emoji": "🫓",
+    "ingredients": [
+      "potato",
+      "flour",
+      "onion"
+    ],
+    "quantities": {
+      "potato": 1,
+      "flour": 100,
+      "onion": 1
+    },
+    "units": {
+      "potato": "piece",
+      "flour": "g",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 30,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style aloo paratha using everyday ingredients.",
+    "steps": [
+      "Mash boiled potato with onion",
+      "Fill rolled dough, seal and pan-cook both sides"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 14,
+    "name": "Onion Tomato Uttapam",
+    "emoji": "🥞",
+    "ingredients": [
+      "rice",
+      "curd",
+      "onion",
+      "tomato"
+    ],
+    "quantities": {
+      "rice": 100,
+      "curd": 100,
+      "onion": 1,
+      "tomato": 1
+    },
+    "units": {
+      "rice": "g",
+      "curd": "g",
+      "onion": "piece",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style onion tomato uttapam using everyday ingredients.",
+    "steps": [
+      "Mix rice batter with curd",
+      "Spread thickly on a pan, top with onion and tomato, cook both sides"
+    ],
+    "substitutions": {
+      "curd": "plain yogurt"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Vegetable Fried Rice",
+    "emoji": "🍚",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "capsicum",
+      "onion"
+    ],
+    "quantities": {
+      "rice": 100,
+      "carrot": 1,
+      "capsicum": 1,
+      "onion": 1
+    },
+    "units": {
+      "rice": "g",
+      "carrot": "piece",
+      "capsicum": "piece",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style vegetable fried rice using everyday ingredients.",
+    "steps": [
+      "Use cooled rice",
+      "Stir-fry onion, carrot and capsicum, add rice and heat thoroughly"
+    ],
+    "substitutions": {
+      "capsicum": "green beans"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Tomato Omelette",
+    "emoji": "🍅",
+    "ingredients": [
+      "egg",
+      "tomato",
+      "onion"
+    ],
+    "quantities": {
+      "egg": 1,
+      "tomato": 1,
+      "onion": 1
+    },
+    "units": {
+      "egg": "piece",
+      "tomato": "piece",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "A practical home-style tomato omelette using everyday ingredients.",
+    "steps": [
+      "Beat eggs with chopped tomato and onion",
+      "Cook in a lightly oiled pan until set"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 17,
+    "name": "Curd Rice",
+    "emoji": "🥣",
+    "ingredients": [
+      "rice",
+      "curd"
+    ],
+    "quantities": {
+      "rice": 100,
+      "curd": 100
+    },
+    "units": {
+      "rice": "g",
+      "curd": "g"
+    },
+    "servings": 2,
+    "time": 5,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style curd rice using everyday ingredients.",
+    "steps": [
+      "Cool cooked rice slightly",
+      "Mix with curd and serve promptly"
+    ],
+    "substitutions": {
+      "curd": "plain yogurt"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Lemon Rice",
+    "emoji": "🍋",
+    "ingredients": [
+      "rice",
+      "lemon",
+      "chilli"
+    ],
+    "quantities": {
+      "rice": 100,
+      "lemon": 1,
+      "chilli": 100
+    },
+    "units": {
+      "rice": "g",
+      "lemon": "piece",
+      "chilli": "g"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style lemon rice using everyday ingredients.",
+    "steps": [
+      "Cook rice",
+      "Warm chilli in oil, add lemon juice and fold through rice"
+    ],
+    "substitutions": {
+      "lemon": "lime"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Garlic Spinach Pasta",
+    "emoji": "🍝",
+    "ingredients": [
+      "pasta",
+      "spinach",
+      "milk",
+      "garlic"
+    ],
+    "quantities": {
+      "pasta": 100,
+      "spinach": 100,
+      "milk": 100,
+      "garlic": 100
+    },
+    "units": {
+      "pasta": "g",
+      "spinach": "g",
+      "milk": "g",
+      "garlic": "g"
+    },
+    "servings": 2,
+    "time": 22,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style garlic spinach pasta using everyday ingredients.",
+    "steps": [
+      "Boil pasta",
+      "Cook garlic and spinach, add milk and simmer",
+      "Stir in pasta"
+    ],
+    "substitutions": {
+      "milk": "unsweetened soy milk",
+      "spinach": "kale"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Carrot Rice",
+    "emoji": "🥕",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "onion"
+    ],
+    "quantities": {
+      "rice": 100,
+      "carrot": 1,
+      "onion": 1
+    },
+    "units": {
+      "rice": "g",
+      "carrot": "piece",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style carrot rice using everyday ingredients.",
+    "steps": [
+      "Cook rice",
+      "Sauté grated carrot and onion, then mix with rice"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 21,
+    "name": "Potato Sandwich",
+    "emoji": "🥪",
+    "ingredients": [
+      "potato",
+      "bread",
+      "onion"
+    ],
+    "quantities": {
+      "potato": 1,
+      "bread": 100,
+      "onion": 1
+    },
+    "units": {
+      "potato": "piece",
+      "bread": "g",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style potato sandwich using everyday ingredients.",
+    "steps": [
+      "Mash boiled potato with onion",
+      "Fill bread and toast until crisp"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 22,
+    "name": "Paneer Rice Bowl",
+    "emoji": "🍲",
+    "ingredients": [
+      "paneer",
+      "rice",
+      "tomato"
+    ],
+    "quantities": {
+      "paneer": 100,
+      "rice": 100,
+      "tomato": 1
+    },
+    "units": {
+      "paneer": "g",
+      "rice": "g",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 18,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style paneer rice bowl using everyday ingredients.",
+    "steps": [
+      "Cook rice",
+      "Sauté tomato, add paneer and heat through",
+      "Serve over rice"
+    ],
+    "substitutions": {
+      "paneer": "firm tofu"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Egg Fried Rice",
+    "emoji": "🍳",
+    "ingredients": [
+      "egg",
+      "rice",
+      "onion",
+      "carrot"
+    ],
+    "quantities": {
+      "egg": 1,
+      "rice": 100,
+      "onion": 1,
+      "carrot": 1
+    },
+    "units": {
+      "egg": "piece",
+      "rice": "g",
+      "onion": "piece",
+      "carrot": "piece"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "A practical home-style egg fried rice using everyday ingredients.",
+    "steps": [
+      "Scramble egg until fully cooked",
+      "Sauté vegetables, add cooled rice and egg; heat thoroughly"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 24,
+    "name": "Chickpea Tomato Curry",
+    "emoji": "🍛",
+    "ingredients": [
+      "chickpea",
+      "tomato",
+      "onion"
+    ],
+    "quantities": {
+      "chickpea": 100,
+      "tomato": 1,
+      "onion": 1
+    },
+    "units": {
+      "chickpea": "g",
+      "tomato": "piece",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 25,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style chickpea tomato curry using everyday ingredients.",
+    "steps": [
+      "Sauté onion and tomato",
+      "Add cooked chickpeas and water",
+      "Simmer until thick"
+    ],
+    "substitutions": {
+      "chickpea": "cooked kidney beans"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Spinach Omelette",
+    "emoji": "🥬",
+    "ingredients": [
+      "egg",
+      "spinach",
+      "onion"
+    ],
+    "quantities": {
+      "egg": 1,
+      "spinach": 100,
+      "onion": 1
+    },
+    "units": {
+      "egg": "piece",
+      "spinach": "g",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "A practical home-style spinach omelette using everyday ingredients.",
+    "steps": [
+      "Beat eggs with onion and chopped spinach",
+      "Cook in a pan until fully set"
+    ],
+    "substitutions": {
+      "spinach": "kale"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Oats Pancakes",
+    "emoji": "🥞",
+    "ingredients": [
+      "oats",
+      "milk",
+      "egg"
+    ],
+    "quantities": {
+      "oats": 100,
+      "milk": 100,
+      "egg": 1
+    },
+    "units": {
+      "oats": "g",
+      "milk": "g",
+      "egg": "piece"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "A practical home-style oats pancakes using everyday ingredients.",
+    "steps": [
+      "Mix ground oats, milk and egg",
+      "Cook small pancakes on a warm pan until cooked through"
+    ],
+    "substitutions": {
+      "milk": "unsweetened soy milk"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Capsicum Potato Curry",
+    "emoji": "🫑",
+    "ingredients": [
+      "capsicum",
+      "potato",
+      "onion",
+      "tomato"
+    ],
+    "quantities": {
+      "capsicum": 1,
+      "potato": 1,
+      "onion": 1,
+      "tomato": 1
+    },
+    "units": {
+      "capsicum": "piece",
+      "potato": "piece",
+      "onion": "piece",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 25,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style capsicum potato curry using everyday ingredients.",
+    "steps": [
+      "Sauté onion and tomato",
+      "Add potato and water; add capsicum and cook until tender"
+    ],
+    "substitutions": {
+      "capsicum": "green beans"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Tomato Soup",
+    "emoji": "🍅",
+    "ingredients": [
+      "tomato",
+      "onion",
+      "milk"
+    ],
+    "quantities": {
+      "tomato": 1,
+      "onion": 1,
+      "milk": 100
+    },
+    "units": {
+      "tomato": "piece",
+      "onion": "piece",
+      "milk": "g"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style tomato soup using everyday ingredients.",
+    "steps": [
+      "Cook tomato and onion until soft",
+      "Blend carefully, return to pan and gently stir in milk"
+    ],
+    "substitutions": {
+      "milk": "unsweetened soy milk"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Bread Upma",
+    "emoji": "🍞",
+    "ingredients": [
+      "bread",
+      "onion",
+      "tomato",
+      "carrot"
+    ],
+    "quantities": {
+      "bread": 100,
+      "onion": 1,
+      "tomato": 1,
+      "carrot": 1
+    },
+    "units": {
+      "bread": "g",
+      "onion": "piece",
+      "tomato": "piece",
+      "carrot": "piece"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style bread upma using everyday ingredients.",
+    "steps": [
+      "Cube bread",
+      "Sauté vegetables, add bread and toss until warmed and lightly crisp"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 30,
+    "name": "Paneer Paratha",
+    "emoji": "🫓",
+    "ingredients": [
+      "paneer",
+      "flour",
+      "onion"
+    ],
+    "quantities": {
+      "paneer": 100,
+      "flour": 100,
+      "onion": 1
+    },
+    "units": {
+      "paneer": "g",
+      "flour": "g",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 25,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style paneer paratha using everyday ingredients.",
+    "steps": [
+      "Mix crumbled paneer and onion",
+      "Stuff into dough and pan-cook both sides"
+    ],
+    "substitutions": {
+      "paneer": "firm tofu"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Vegetable Khichdi",
+    "emoji": "🍲",
+    "ingredients": [
+      "rice",
+      "lentil",
+      "carrot",
+      "potato"
+    ],
+    "quantities": {
+      "rice": 100,
+      "lentil": 100,
+      "carrot": 1,
+      "potato": 1
+    },
+    "units": {
+      "rice": "g",
+      "lentil": "g",
+      "carrot": "piece",
+      "potato": "piece"
+    },
+    "servings": 2,
+    "time": 30,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style vegetable khichdi using everyday ingredients.",
+    "steps": [
+      "Rinse rice and lentils",
+      "Add vegetables and water; simmer until soft"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 32,
+    "name": "Spinach Paneer",
+    "emoji": "🥬",
+    "ingredients": [
+      "spinach",
+      "paneer",
+      "onion",
+      "tomato"
+    ],
+    "quantities": {
+      "spinach": 100,
+      "paneer": 100,
+      "onion": 1,
+      "tomato": 1
+    },
+    "units": {
+      "spinach": "g",
+      "paneer": "g",
+      "onion": "piece",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 25,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style spinach paneer using everyday ingredients.",
+    "steps": [
+      "Wilt and blend spinach",
+      "Sauté onion and tomato, add spinach and paneer, simmer"
+    ],
+    "substitutions": {
+      "paneer": "firm tofu",
+      "spinach": "kale"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Carrot Milk Smoothie",
+    "emoji": "🥤",
+    "ingredients": [
+      "carrot",
+      "milk"
+    ],
+    "quantities": {
+      "carrot": 1,
+      "milk": 100
+    },
+    "units": {
+      "carrot": "piece",
+      "milk": "g"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style carrot milk smoothie using everyday ingredients.",
+    "steps": [
+      "Steam carrot and cool fully",
+      "Blend with chilled milk and serve immediately"
+    ],
+    "substitutions": {
+      "milk": "unsweetened soy milk"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Garlic Bread",
+    "emoji": "🥖",
+    "ingredients": [
+      "bread",
+      "butter",
+      "garlic"
+    ],
+    "quantities": {
+      "bread": 100,
+      "butter": 100,
+      "garlic": 100
+    },
+    "units": {
+      "bread": "g",
+      "butter": "g",
+      "garlic": "g"
+    },
+    "servings": 2,
+    "time": 10,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style garlic bread using everyday ingredients.",
+    "steps": [
+      "Mix butter and crushed garlic",
+      "Spread on bread and toast until crisp"
+    ],
+    "substitutions": {
+      "butter": "cooking oil"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Lentil Rice",
+    "emoji": "🍛",
+    "ingredients": [
+      "rice",
+      "lentil",
+      "onion",
+      "tomato"
+    ],
+    "quantities": {
+      "rice": 100,
+      "lentil": 100,
+      "onion": 1,
+      "tomato": 1
+    },
+    "units": {
+      "rice": "g",
+      "lentil": "g",
+      "onion": "piece",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 30,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style lentil rice using everyday ingredients.",
+    "steps": [
+      "Rinse rice and lentils",
+      "Sauté onion and tomato, add rice, lentils and water; simmer until tender"
+    ],
+    "substitutions": {}
+  },
+  {
+    "id": 36,
+    "name": "Egg Potato Salad",
+    "emoji": "🥗",
+    "ingredients": [
+      "egg",
+      "potato",
+      "onion",
+      "curd"
+    ],
+    "quantities": {
+      "egg": 1,
+      "potato": 1,
+      "onion": 1,
+      "curd": 100
+    },
+    "units": {
+      "egg": "piece",
+      "potato": "piece",
+      "onion": "piece",
+      "curd": "g"
+    },
+    "servings": 2,
+    "time": 20,
+    "difficulty": "Easy",
+    "vegetarian": false,
+    "description": "A practical home-style egg potato salad using everyday ingredients.",
+    "steps": [
+      "Boil eggs and potatoes fully",
+      "Cool, chop and mix with curd and onion",
+      "Keep chilled"
+    ],
+    "substitutions": {
+      "curd": "plain yogurt"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Tomato Paneer Toast",
+    "emoji": "🍞",
+    "ingredients": [
+      "bread",
+      "paneer",
+      "tomato"
+    ],
+    "quantities": {
+      "bread": 100,
+      "paneer": 100,
+      "tomato": 1
+    },
+    "units": {
+      "bread": "g",
+      "paneer": "g",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 12,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style tomato paneer toast using everyday ingredients.",
+    "steps": [
+      "Mix crumbled paneer and tomato",
+      "Spread on bread and toast until hot and crisp"
+    ],
+    "substitutions": {
+      "paneer": "firm tofu"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Vegetable Oats",
+    "emoji": "🥣",
+    "ingredients": [
+      "oats",
+      "carrot",
+      "onion",
+      "milk"
+    ],
+    "quantities": {
+      "oats": 100,
+      "carrot": 1,
+      "onion": 1,
+      "milk": 100
+    },
+    "units": {
+      "oats": "g",
+      "carrot": "piece",
+      "onion": "piece",
+      "milk": "g"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style vegetable oats using everyday ingredients.",
+    "steps": [
+      "Sauté carrot and onion",
+      "Add oats and milk, simmer while stirring until creamy"
+    ],
+    "substitutions": {
+      "milk": "unsweetened soy milk"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Potato Spinach Curry",
+    "emoji": "🥔",
+    "ingredients": [
+      "potato",
+      "spinach",
+      "onion",
+      "tomato"
+    ],
+    "quantities": {
+      "potato": 1,
+      "spinach": 100,
+      "onion": 1,
+      "tomato": 1
+    },
+    "units": {
+      "potato": "piece",
+      "spinach": "g",
+      "onion": "piece",
+      "tomato": "piece"
+    },
+    "servings": 2,
+    "time": 25,
+    "difficulty": "Medium",
+    "vegetarian": true,
+    "description": "A practical home-style potato spinach curry using everyday ingredients.",
+    "steps": [
+      "Sauté onion and tomato",
+      "Add potato and water; cook nearly tender, then add spinach"
+    ],
+    "substitutions": {
+      "spinach": "kale"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Capsicum Paneer Stir-fry",
+    "emoji": "🫑",
+    "ingredients": [
+      "capsicum",
+      "paneer",
+      "onion"
+    ],
+    "quantities": {
+      "capsicum": 1,
+      "paneer": 100,
+      "onion": 1
+    },
+    "units": {
+      "capsicum": "piece",
+      "paneer": "g",
+      "onion": "piece"
+    },
+    "servings": 2,
+    "time": 15,
+    "difficulty": "Easy",
+    "vegetarian": true,
+    "description": "A practical home-style capsicum paneer stir-fry using everyday ingredients.",
+    "steps": [
+      "Sauté onion and capsicum until tender-crisp",
+      "Add paneer and heat through"
+    ],
+    "substitutions": {
+      "paneer": "firm tofu",
+      "capsicum": "green beans"
+    }
+  }
+]

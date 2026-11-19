@@ -1,0 +1,1 @@
+const fs=require("fs"),assert=require("assert"),r=JSON.parse(fs.readFileSync("data/recipes.json"));assert.equal(r.length,40);const x=r.find(x=>x.name==="Egg Toast");assert(x);assert.equal(Math.round(x.ingredients.filter(i=>["egg","bread","onion"].includes(i)).length/x.ingredients.length*100),100);console.log("PASS: 40 recipes; Egg Toast demo match is 100%.");
